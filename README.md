@@ -1,4 +1,4 @@
-# CSCI-331-Projects
+# CSCI-331-HW 3
 T-SQL Fundamental Projects for CSCI Group 2
 
 # MEMBERS
