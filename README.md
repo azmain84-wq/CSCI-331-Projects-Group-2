@@ -1,5 +1,14 @@
 # CSCI-331-Projects
 T-SQL Fundamental Projects for CSCI Group 2
 
-Azmain_Abrar_ChAPTER#3_VIDEO
-"Individual_GroupNumber_HW#_MemberName.PYNB"
+# MEMBERS
+- Azmain Abrar
+- Shiwlee Rahman
+- Izaz Chowdhury
+- Christopher Vidal
+- Eusan Mahatab
+- Zarrin Cherry
+- Haiyan Wei
+
+  # Goals
+  - Make 10 individual querries through the WorldWideImpoters database
