@@ -23,6 +23,6 @@ T-SQL Fundamental Projects for CSCI Group 2
   - Shiwlee : Eusan
 
  # Links To Individual Videos
- - Shiwlee: 
+ - Shiwlee: https://www.youtube.com/watch?v=AtEI1HFN_9Q
     
     
