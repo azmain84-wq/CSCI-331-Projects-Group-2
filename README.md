@@ -27,6 +27,18 @@ T-SQL Fundamental Projects for CSCI Group 2
  - Shiwlee: https://www.youtube.com/watch?v=AtEI1HFN_9Q
  - Zarrin: https://youtu.be/pE6UlYLlJZc?si=xG1nW1Ju7JuwsKVX
  - Izaz: https://drive.google.com/file/d/15xMNmCHSDxD9Qof6stQTkYEYux9lPwks/view?usp=sharing
- - Azmain: 
+ - Azmain:
+ - Haiyan: https://youtu.be/I77uVGJb-sg
+ - Eusan:
+ - Christopher:
+
+# Links To Individual Query Files
+- Azmain: Azmain_Abrar_Group#2_HW#3_script.ipynb
+- Eusan: EusanHW3Notebook.ipynb
+- Shiwlee: Shiwlee_Rahman_Group_2_Hw # 3 .ipynb
+- Haiyan: Haiyan_Wei_HW3.ipynb
+- Izaz: Izaz_Chowdhury_hw3_group2_queries.ipynb
+- Christopher: Christopher_Vidal_Group2_Hw3.sql
+- Zarrin: Zarrin_Cherry_hw3_group2_queries.sql
     
     
