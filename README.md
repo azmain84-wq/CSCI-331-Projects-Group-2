@@ -21,5 +21,8 @@ T-SQL Fundamental Projects for CSCI Group 2
   - Azmain : Christopher
   - Azmain : Izaz
   - Shiwlee : Eusan
+
+ # Links To Individual Videos
+ - Shiwlee: 
     
     
