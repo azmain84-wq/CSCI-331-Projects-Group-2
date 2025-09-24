@@ -21,8 +21,10 @@ T-SQL Fundamental Projects for CSCI Group 2
   - Azmain : Christopher
   - Azmain : Izaz
   - Shiwlee : Eusan
+  - Haiyan : Zarrin
 
  # Links To Individual Videos
  - Shiwlee: https://www.youtube.com/watch?v=AtEI1HFN_9Q
+ - Zarrin: https://youtu.be/pE6UlYLlJZc?si=xG1nW1Ju7JuwsKVX
     
     
