@@ -29,7 +29,7 @@ T-SQL Fundamental Projects for CSCI Group 2
  - Izaz: https://drive.google.com/file/d/15xMNmCHSDxD9Qof6stQTkYEYux9lPwks/view?usp=sharing
  - Azmain:
  - Haiyan: https://youtu.be/I77uVGJb-sg
- - Eusan:
+ - Eusan: Eusan_HW3.mp4
  - Christopher:
 
 # Links To Individual Query Files
