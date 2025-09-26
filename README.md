@@ -25,11 +25,17 @@ T-SQL Fundamental Projects for CSCI Group 2
 
  # Links To Individual Videos
  - Shiwlee: https://www.youtube.com/watch?v=AtEI1HFN_9Q
+   
  - Zarrin: https://youtu.be/pE6UlYLlJZc?si=xG1nW1Ju7JuwsKVX
+   
  - Izaz: https://drive.google.com/file/d/15xMNmCHSDxD9Qof6stQTkYEYux9lPwks/view?usp=sharing
- - Azmain:
+   
+ - Azmain: https://youtu.be/p-MkHpP1LfY
+   
  - Haiyan: https://youtu.be/I77uVGJb-sg
+   
  - Eusan: Eusan_HW3.mp4
+   
  - Christopher:
 
 # Links To Individual Query Files
