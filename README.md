@@ -39,7 +39,7 @@ T-SQL Fundamental Projects for CSCI Group 2
  - Christopher:
 
  # Link To GROUP Peer Discussion
-- https://youtu.be/-acygqJZ8AE
+-https://youtu.be/-acygqJZ8AE
 
 # Individual Query Files
 - Azmain: Azmain_Abrar_Group#2_HW#3_script.ipynb
