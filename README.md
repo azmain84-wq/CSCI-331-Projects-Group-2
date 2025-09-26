@@ -47,7 +47,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Christopher: Christopher_Vidal_Group2_Hw3.sql
 - Zarrin: Zarrin_Cherry_hw3_group2_queries.sql
 
-# Project Gantt Chart - CSCI 331 HW3
+# Project Gantt Chart 
 
 | Task                                  | Responsible Members   | Start Date | End Date   | Status  |
 |---------------------------------------|-----------------------|------------|------------|---------|
