@@ -1,7 +1,7 @@
 # CSCI-331-HW 3
 T-SQL Fundamental Projects for CSCI Group 2
 
-# MEMBERS
+# Members
 - Azmain Abrar
 - Shiwlee Rahman
 - Izaz Chowdhury
@@ -17,7 +17,7 @@ T-SQL Fundamental Projects for CSCI Group 2
   - MAKE SURE WE SUBMIT sql script in .ipynb file (Azure Data Studio)
   - Complete the gantt chart.
 
-  # PAIRS
+  # Pairs
   - Azmain : Christopher
   - Azmain : Izaz
   - Shiwlee : Eusan
@@ -41,7 +41,7 @@ T-SQL Fundamental Projects for CSCI Group 2
  # Link To GROUP Peer Discussion
 - https://youtu.be/I77uVGJb-sg
 
-# Links To Individual Query Files
+# Individual Query Files
 - Azmain: Azmain_Abrar_Group#2_HW#3_script.ipynb
 - Eusan: EusanHW3Notebook.ipynb
 - Shiwlee: Shiwlee_Rahman_Group_2_Hw # 3 .ipynb
@@ -50,7 +50,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Christopher: Christopher_Vidal_Group2_Hw3.sql
 - Zarrin: Zarrin_Cherry_hw3_group2_queries.sql
 
-# Project Gantt Chart 
+# Gantt Chart 
 
 | Task                                  | Responsible Members   | Start Date | End Date   | Status  |
 |---------------------------------------|-----------------------|------------|------------|---------|
