@@ -51,7 +51,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 
 | Task                                  | Responsible Members   | Start Date | End Date   | Status  |
 |---------------------------------------|-----------------------|------------|------------|---------|
-| Write 10 propositions & queries       | All members           | 2025-09-15 | 2025-09-23 | Done    |
+| Write 10 propositions & queries       | All members           | 2025-09-17 | 2025-09-23 | Done    |
 | Record individual query videos        | All members           | 2025-09-18 | 2025-09-23 | Done    |
 | Pair review sessions (5 queries each) | Pairs (see README)    | 2025-09-22 | 2025-09-23 | Done    |
 | Submit `.ipynb` notebooks             | All members           | 2025-10-07 | 2025-10-08 | Done    |   
