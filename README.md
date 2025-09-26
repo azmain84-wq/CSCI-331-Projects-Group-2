@@ -60,7 +60,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 | Submit `.ipynb` notebooks             | All members           | 2025-09-20 | 2025-09-23 | Done    |   
 | Consolidate youtube group video       | Homework leader       | 2025-09-23 | 2025-09-23 | Done    |
 | Organize all files + finalize repo    | Homework leader       | 2025-09-24 | 2025-09-24 | Done    |
-| Submit GitHub Link, brightspace       | Homework leader       | 2025-09-25 | 2025-09-26 | Done    |
+| Submit GitHub zip+link, brightspace   | Homework leader       | 2025-09-25 | 2025-09-26 | Done    |
 
 
     
