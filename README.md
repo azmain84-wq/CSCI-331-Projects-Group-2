@@ -48,7 +48,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Haiyan: Haiyan_Wei_HW3.ipynb
 - Izaz: Izaz_Chowdhury_hw3_group2_queries.ipynb
 - Christopher: Christopher_Vidal_Group2_Hw3.sql
-- Zarrin: Zarrin_Cherry_hw3_group2_queries.sql
+- Zarrin: Zarrin_Cherry_hw3_group2_queries.ipynb
 
 # Gantt Chart 
 
