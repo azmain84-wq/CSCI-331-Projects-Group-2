@@ -46,5 +46,19 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Izaz: Izaz_Chowdhury_hw3_group2_queries.ipynb
 - Christopher: Christopher_Vidal_Group2_Hw3.sql
 - Zarrin: Zarrin_Cherry_hw3_group2_queries.sql
+
+# Project Gantt Chart - CSCI 331 HW3
+
+| Task                                  | Responsible Members   | Start Date | End Date   | Status  |
+|---------------------------------------|-----------------------|------------|------------|---------|
+| Write 10 propositions & queries       | All members           | 2025-09-15 | 2025-09-23 | Done    |
+| Record individual query videos        | All members           | 2025-09-18 | 2025-09-23 | Done    |
+| Pair review sessions (5 queries each) | Pairs (see README)    | 2025-09-22 | 2025-09-23 | Done    |
+| Submit `.ipynb` notebooks             | All members           | 2025-10-07 | 2025-10-08 | Done    |   
+| Consolidate youtube group video       | Homework leader       | 2025-09-23   2025-09-23 | Done    |
+| Create ZIP file + finalize repo       | Homework leader       | 2025-09-24 | 2025-09-24 | Done    |
+| Submit GitHub + ZIP link              | Homework leader       | 2025-09-25 | 2025-09-25 |pending  |
+
+
     
     
