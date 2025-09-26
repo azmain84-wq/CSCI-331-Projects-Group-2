@@ -34,9 +34,12 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Haiyan: https://youtu.be/I77uVGJb-sg
    
- - Eusan: Eusan_HW3.mp4
+ - Eusan: Downloadable file attached.
    
  - Christopher:
+
+ # Link To GROUP Peer Discussion
+- https://youtu.be/I77uVGJb-sg
 
 # Links To Individual Query Files
 - Azmain: Azmain_Abrar_Group#2_HW#3_script.ipynb
