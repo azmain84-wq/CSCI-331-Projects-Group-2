@@ -36,7 +36,7 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Eusan: Downloadable file attached.
    
- - Christopher:
+ - Christopher: https://youtu.be/y1_u8NYtNws?feature=shared
 
  # Link To GROUP Peer Discussion
 - https://youtu.be/-acygqJZ8AE
